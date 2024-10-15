@@ -1,0 +1,19 @@
+.chapter-main {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.chapter-button {
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: green;
+  color: white;
+  border-color: green;
+}
